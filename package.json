@@ -1,0 +1,16 @@
+{
+  "name": "gettemp-promise",
+  "version": "1.1.0",
+  "description": "returns the current weather at the specified US zip code using the specified units of temperature.",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Todd Briley",
+  "license": "ISC"
+}
